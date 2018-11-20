@@ -12,10 +12,10 @@
 
 
 Содержание:
-1. [Кластеризация]()
-2. [Понижение размерности и матричные разложения]()
-3. [Визуализация и поиск аномалий]()
-4. [Тематическое моделирование]()
+1. [Кластеризация](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/3%20-%20Finding%20structure%20in%20data/Week%201)
+2. [Понижение размерности и матричные разложения](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/3%20-%20Finding%20structure%20in%20data/Week%202)
+3. [Визуализация и поиск аномалий](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/3%20-%20Finding%20structure%20in%20data/Week%203)
+4. [Тематическое моделирование](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/3%20-%20Finding%20structure%20in%20data/Week%204)
 
 
 #### Для кого этот курс ####

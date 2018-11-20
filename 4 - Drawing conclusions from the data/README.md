@@ -10,10 +10,10 @@
 
 
 Содержание:
-1. [Интервалы и гипотезы]()
-2. [АБ-тестирование]()
-3. [Закономерности и зависимости]()
-4. [Неделя задач]()
+1. [Интервалы и гипотезы](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/4%20-%20Drawing%20conclusions%20from%20the%20data/Week%201)
+2. [АБ-тестирование](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/4%20-%20Drawing%20conclusions%20from%20the%20data/Week%202)
+3. [Закономерности и зависимости](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/4%20-%20Drawing%20conclusions%20from%20the%20data/Week%203)
+4. [Неделя задач](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/4%20-%20Drawing%20conclusions%20from%20the%20data/Week%204)
 
 
 #### Для кого этот курс ####

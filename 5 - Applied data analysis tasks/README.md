@@ -12,10 +12,10 @@
 
 
 Содержание:
-1. [Бизнес-задачи]()
-1. [Анализ медиа]()
-1. [Анализ текстов]()
-1. [Рекомендации и ранжирование]()
+1. [Бизнес-задачи](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/5%20-%20Applied%20data%20analysis%20tasks/Week%201)
+2. [Анализ медиа](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/5%20-%20Applied%20data%20analysis%20tasks/Week%202)
+3. [Анализ текстов](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/5%20-%20Applied%20data%20analysis%20tasks/Week%203)
+4. [Рекомендации и ранжирование](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/5%20-%20Applied%20data%20analysis%20tasks/Week%204)
 
 
 <hr>

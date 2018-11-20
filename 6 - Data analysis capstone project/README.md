@@ -12,13 +12,13 @@
 
 
 Содержание:
-1. [Week 1]()
-2. [Week 2]()
-3. [Week 3]()
-4. [Week 4]()
-5. [Week 5]()
-6. [Week 6]()
-7. [Week 7]()
+1. [Week 1](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/6%20-%20Data%20analysis%20capstone%20project/Week%201)
+2. [Week 2](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/6%20-%20Data%20analysis%20capstone%20project/Week%202)
+3. [Week 3](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/6%20-%20Data%20analysis%20capstone%20project/Week%203)
+4. [Week 4](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/6%20-%20Data%20analysis%20capstone%20project/Week%204)
+5. [Week 5](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/6%20-%20Data%20analysis%20capstone%20project/Week%205)
+6. [Week 6](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/6%20-%20Data%20analysis%20capstone%20project/Week%206)
+7. [Week 7](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/6%20-%20Data%20analysis%20capstone%20project/Week%207)
 
 
 <hr>
