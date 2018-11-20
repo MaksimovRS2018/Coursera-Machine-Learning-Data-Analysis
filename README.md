@@ -4,7 +4,7 @@
 
 <p>
     <a href="https://www.coursera.org/specializations/machine-learning-data-analysis">
-        <img src="https://github.com/VulpesCorsac/Coursera-Machine-Learning-and-Data-Analysis/blob/master/Logo.jpg">
+        <img src="https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/blob/master/Logo.jpg">
     </a>
 </p>
 
@@ -20,10 +20,9 @@
 Все, прошедшие специализацию, могут [принять участие в Программе трудоустройства](https://datasciencecourse.ru/work/?utm_source=MIPT&utm_medium=institutions&utm_content=mainpagecrs). Если вы заинтересованы в новых проектах, новых перспективах и возможностях - пройдите обучение по Специализации и подайте заявку.
 
 6 Courses:
-
-1. [Математика и Python для анализа данных](https://github.com/VulpesCorsac/Coursera-Machine-Learning-and-Data-Analysis/tree/master/1%20-%20Mathematics%20and%20python%20for%20data%20analysis)
-2. [Обучение на размеченных данных](https://github.com/VulpesCorsac/Coursera-Machine-Learning-and-Data-Analysis/tree/master/2%20-%20Training%20on%20labeled%20data)
-3. [Поиск структуры в данных](https://github.com/VulpesCorsac/Coursera-Machine-Learning-and-Data-Analysis/tree/master/3%20-%20Finding%20structure%20in%20data)
-4. [Построение выводов по данным](https://github.com/VulpesCorsac/Coursera-Machine-Learning-and-Data-Analysis/tree/master/4%20-%20Drawing%20conclusions%20from%20the%20data)
-5. [Прикладные задачи анализа данных](https://github.com/VulpesCorsac/Coursera-Machine-Learning-and-Data-Analysis/tree/master/5%20-%20Applied%20data%20analysis%20tasks)
-6. [Анализ данных: финальный проект](https://github.com/VulpesCorsac/Coursera-Machine-Learning-and-Data-Analysis/tree/master/6%20-%20Data%20analysis%20capstone%20project)
+1. [Математика и Python для анализа данных](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/1%20-%20Mathematics%20and%20python%20for%20data%20analysis)
+2. [Обучение на размеченных данных](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/2%20-%20Training%20on%20labeled%20data)
+3. [Поиск структуры в данных](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/3%20-%20Finding%20structure%20in%20data)
+4. [Построение выводов по данным](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/4%20-%20Drawing%20conclusions%20from%20the%20data)
+5. [Прикладные задачи анализа данных](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/5%20-%20Applied%20data%20analysis%20tasks)
+6. [Анализ данных: финальный проект](https://github.com/VulpesCorsac/Coursera-Machine-Learning-Data-Analysis/tree/master/6%20-%20Data%20analysis%20capstone%20project)
