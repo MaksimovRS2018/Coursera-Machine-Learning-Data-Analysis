@@ -1,7 +1,7 @@
 # Математика и Python для анализа данных #
 
 
-[![](https://github.com/VulpesCorsac/Coursera-Machine-Learning-and-Data-Analysis/blob/master/Logo.jpg](https://www.coursera.org/learn/mathematics-and-python/) Первый [курс](https://www.coursera.org/learn/mathematics-and-python/) из [специализации Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis) от Московский физико-технический институт & Yandex
+[![](https://github.com/VulpesCorsac/Coursera-Machine-Learning-and-Data-Analysis/blob/master/1%20-%20Mathematics%20and%20python%20for%20data%20analysis/Logo1.jpg)](https://www.coursera.org/learn/mathematics-and-python/) Первый [курс](https://www.coursera.org/learn/mathematics-and-python/) из [специализации Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis) от Московский физико-технический институт & Yandex
 
 #### О курсе ####
 

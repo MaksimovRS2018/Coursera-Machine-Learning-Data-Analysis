@@ -1,7 +1,7 @@
 # Обучение на размеченных данных #
 
 
-[![](https://github.com/VulpesCorsac/Coursera-Machine-Learning-and-Data-Analysis/blob/master/Logo.jpg)](https://www.coursera.org/learn/supervised-learning/) Второй [курс](https://www.coursera.org/learn/supervised-learning/) из [специализации Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis) от Московский физико-технический институт & Yandex
+[![](https://github.com/VulpesCorsac/Coursera-Machine-Learning-and-Data-Analysis/blob/master/2%20-%20Training%20on%20labeled%20data/Logo2.jpg)](https://www.coursera.org/learn/mathematics-and-python/) Второй [курс](https://www.coursera.org/learn/supervised-learning) из [специализации Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis) от Московский физико-технический институт & Yandex
 
 #### О курсе ####
 Обучение на размеченных данных или обучение с учителем – это наиболее распространенный класс задач машинного обучения. К нему относятся те задачи, где нужно научиться предсказывать некоторую величину для любого объекта, имея конечное число примеров. Это может быть предсказание уровня пробок на участке дороги, определение возраста пользователя по его действиям в интернете, предсказание цены, по которой будет куплена подержанная машина.

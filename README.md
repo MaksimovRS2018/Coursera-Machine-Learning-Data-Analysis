@@ -21,8 +21,8 @@
 
 6 Courses:
 
-1. [Математика и Python для анализа данных](https://github.com/VulpesCorsac/Coursera-Machine-Learning-and-Data-Analysis)
-2. [Обучение на размеченных данных](https://github.com/VulpesCorsac/Coursera-Machine-Learning-and-Data-Analysis)
+1. [Математика и Python для анализа данных](https://github.com/VulpesCorsac/Coursera-Machine-Learning-and-Data-Analysis/tree/master/1%20-%20Mathematics%20and%20python%20for%20data%20analysis)
+2. [Обучение на размеченных данных](https://github.com/VulpesCorsac/Coursera-Machine-Learning-and-Data-Analysis/tree/master/2%20-%20Training%20on%20labeled%20data)
 3. [Поиск структуры в данных](https://github.com/VulpesCorsac/Coursera-Machine-Learning-and-Data-Analysis)
 4. [Построение выводов по данным](https://github.com/VulpesCorsac/Coursera-Machine-Learning-and-Data-Analysis)
 5. [Прикладные задачи анализа данных](https://github.com/VulpesCorsac/Coursera-Machine-Learning-and-Data-Analysis)
